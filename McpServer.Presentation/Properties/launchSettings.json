@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "McpServer.Presentation": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7011",
-      "launchBrowser": false
-    }
-  }
-}
